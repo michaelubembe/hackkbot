@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/[postid]/page": "app/[postid]/page.js",
+  "/create-new-post/page": "app/create-new-post/page.js"
+}
