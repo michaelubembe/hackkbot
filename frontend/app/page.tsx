@@ -17,7 +17,7 @@ export default function CardHoverEffectDemo() {
             className="ml-auto font-light text-sm text-slate-300 px-4 pt-1"
             href={"/register"}
           >
-            Register
+            Create Account
           </Link>
           <Link
             className="font-light text-sm text-orange-600 pt-1"
